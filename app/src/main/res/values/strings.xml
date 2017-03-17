@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Installed Application</string>
+    <string name="appname">APPNAME</string>
+    <string name="package_name">Package Name</string>
+    <string name="launch">LAUNCH</string>
+    <string name="title_activity_display">Display</string>
+    <string name="user_installed_application">User Installed Application</string>
+    <string name="system_installed_application">System Installed Application</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="system_applications">System Applications</string>
+    <string name="user_application">User Application</string>
+</resources>
